@@ -4,8 +4,9 @@
  * and open the template in the editor.
  */
 package patronobserver;
+
 import Clases.*;
-import Interfaces.*;
+
 
 /**
  *
@@ -26,5 +27,5 @@ public class main {
         weatherData.setMeasurements(60, 68, 29.4f);
         weatherData.setMeasurements(75, 69, 31.4f);
     }
-    
+
 }
